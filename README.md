@@ -1,9 +1,24 @@
 # RemoconMobileControl
+
 <p1 align="center">
-  <img src="https://github.com/LITCoderKingYT/RemoconMobileControl/blob/main/twitter-cover.jpg" />
+	<img src="/twitter-cover.jpg" />
 </p1>
-Remocon Mobile Control Was Requested By Multiple People With The Official Remocon Discord Server. <br> Im A Single Developer And Ive Made This App With The Assitance Of tobmood
-Current Features: List All and Live Robots That Are Stored In The Remocon.tv Database. <br> Currently The Robots Will Open A "Mobile Friendly" Link In The Default Web Browser <br>
+
+Remocon Mobile Control was requested by multiple people from within The Official Remocon Discord Server. <br> Im A single developer and I've made this app with the assistance of @tobmood
+
+## Current Features
+
+* List all available Robots that are at Remocon.tv
+* List all live Robots that are viewable at Remocon.tv
+
+## App Details
+For now, Viewing a Robot will open your default web browser to view a Robot. This will be fixed in a later release. <br>
+
 <p align="center">
-  <img src="https://github.com/LITCoderKingYT/RemoconMobileControl/blob/main/RemoLogo.png" width="500" />
+  <img src="/RemoLogo.png" width="500" />
 </p>
+
+## Bugs
+There are no known bugs at this time.
+<!-- - [x] Checked Checkbox -->
+<!-- - [ ] Unchecked Checkbox -->
