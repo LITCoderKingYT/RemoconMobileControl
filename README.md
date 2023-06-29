@@ -15,10 +15,13 @@ Remocon Mobile Control was requested by multiple people from within The Official
 For now, Viewing a Robot will open your default web browser to view a Robot. This will be fixed in a later release. <br>
 
 <p align="center">
-  <img src="/RemoLogo.png" width="500" />
+  <a href="https://github.com/LITCoderKingYT/RemoconMobileControl/releases/download/DevBuild62623/RemoconControlD62623.apk"><img src="/RemoLogo.png" width="500" /></a>
 </p>
+<p align="center">🡱 Click/Press To Download The Remocon Mobile Control APK 🡱</p>
+
+<!-- Update download link when there is a new release! -->
 
 ## Bugs
-There are no known bugs at this time.
+- [ ] UI Objects may be Cut Off/Broken
 <!-- - [x] Checked Checkbox -->
 <!-- - [ ] Unchecked Checkbox -->
